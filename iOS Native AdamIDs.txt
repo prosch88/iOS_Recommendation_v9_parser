@@ -1,0 +1,62 @@
+1108187098,com.apple.Mail
+1146560473,com.apple.MobileSMS
+1146562108,com.apple.mobilephone
+1146562112,com.apple.mobilesafari
+com.apple.AddressBook
+com.apple.AppStore
+com.apple.BarcodeScanner
+com.apple.Bridge (Watch)
+com.apple.Calculator
+com.apple.Calendar
+com.apple.camera
+com.apple.clips
+com.apple.Clock
+com.apple.compass
+com.apple.Contacts
+com.apple.DocumentsApp (Files)
+com.apple.facetime
+com.apple.findmy
+com.apple.Fitness
+com.apple.freeform
+com.apple.GenerativePlaygroundApp (Image Playground)
+com.apple.Health
+com.apple.Home
+com.apple.iBooks
+com.apple.iCloudDriveApp
+com.apple.iMovie
+com.apple.journal
+com.apple.Keynote
+com.apple.Magnifier
+com.apple.Maps
+com.apple.measure
+com.apple.MobileAddressBook
+com.apple.mobilecal (Calendar)
+com.apple.mobilegarageband
+com.apple.mobilemail
+com.apple.mobilenotes
+com.apple.mobileslideshow
+com.apple.MobileStore (iTunes Store)
+com.apple.mobiletimer
+com.apple.Music
+com.apple.News
+com.apple.Notes
+com.apple.Numbers
+com.apple.Pages
+com.apple.Passbook (Wallet)
+com.apple.Passwords
+com.apple.Photo-Booth
+com.apple.Photos
+com.apple.Playgrounds (Swift Playgrounds)
+com.apple.podcasts
+com.apple.Preferences
+com.apple.reminders
+com.apple.Safari
+com.apple.shortcuts
+com.apple.stocks
+com.apple.store
+com.apple.tips
+com.apple.Translate
+com.apple.tv
+com.apple.VoiceMemos
+com.apple.weather
+developer.apple.wwdc-Release (Developer)
