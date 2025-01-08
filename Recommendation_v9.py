@@ -23,7 +23,7 @@ def fetch_app_names_from_storeuser(storeuser_db_path):
     print(f"Extracted app details: {app_details}")
     return app_details
 
-def parse_sqlite_db(db_path, storeuser_db_path):
+def parse_sqlite_db(db_path, storeuser_db_path, case_number):
     print(f"Parsing SQLite DB: {db_path}")
     try:
         # Ensure the .wal and .shm files are in the same directory
@@ -65,27 +65,29 @@ def parse_sqlite_db(db_path, storeuser_db_path):
             data.append({
                 "Timestamp": start_time.strftime("%m/%d/%Y %H:%M:%S"),
                 "Foreground": "App in Foreground",
-                "Details": f"{app_name} (Bundle ID: {bundle_id}) v{zappversion}\nType: {ztype}, Subtype: {zeventsubtype} {'(Install)' if zeventsubtype == 3 else ''}\nDuration: {zforegroundduration} seconds"
+                "Details": f"{app_name} (Bundle ID: {bundle_id}, AdamID: {zadamid}) v{zappversion}\nType: {ztype}, Subtype: {zeventsubtype} {'(Install)' if zeventsubtype == 3 else ''}\nDuration: {zforegroundduration} seconds"
             })
             data.append({
                 "Timestamp": end_time.strftime("%m/%d/%Y %H:%M:%S"),
                 "Foreground": "App moved to background",
-                "Details": f"{app_name} (Bundle ID: {bundle_id}) v{zappversion}\nType: {ztype}, Subtype: {zeventsubtype} {'(Install)' if zeventsubtype == 3 else ''}\nDuration: {zforegroundduration} seconds"
+                "Details": f"{app_name} (Bundle ID: {bundle_id}, AdamID: {zadamid}) v{zappversion}\nType: {ztype}, Subtype: {zeventsubtype} {'(Install)' if zeventsubtype == 3 else ''}\nDuration: {zforegroundduration} seconds"
             })
 
         # Create a DataFrame and save to CSV
         df = pd.DataFrame(data)
-        print("DataFrame created, writing to CSV...")
-        df.to_csv("output.csv", index=False)
-        print("Data has been written to output.csv")
+        output_dir = os.path.dirname(db_path)
+        output_filename = os.path.join(output_dir, f"{case_number}-recommendation_v9-StoreUser.db-parsed.csv")
+        print(f"DataFrame created, writing to {output_filename}...")
+        df.to_csv(output_filename, index=False)
+        print(f"Data has been written to {output_filename}")
     except sqlite3.Error as e:
         print(f"SQLite error: {e}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-def start_parsing_thread(db_path, storeuser_db_path):
+def start_parsing_thread(db_path, storeuser_db_path, case_number):
     print("Starting parsing thread...")
-    parsing_thread = threading.Thread(target=parse_sqlite_db, args=(db_path, storeuser_db_path))
+    parsing_thread = threading.Thread(target=parse_sqlite_db, args=(db_path, storeuser_db_path, case_number))
     parsing_thread.start()
     return parsing_thread
 
@@ -95,8 +97,9 @@ if __name__ == "__main__":
     parser.add_argument("storeuser_db_path", help="Path to the storeUser.db file")
     args = parser.parse_args()
 
-    print(f"Starting script with db_path: {args.db_path} and storeuser_db_path: {args.storeuser_db_path}")
-    thread = start_parsing_thread(args.db_path, args.storeuser_db_path)
-    thread.join()  # Wait for the thread to complete
-    print("Script completed.")
+    case_number = input("Please enter the case number: ")
 
+    print(f"Starting script with db_path: {args.db_path} and storeuser_db_path: {args.storeuser_db_path}")
+    thread = start_parsing_thread(args.db_path, args.storeuser_db_path, case_number)
+    thread.join()  # Wait for the thread to complete
+    print("Script completed.") #test
