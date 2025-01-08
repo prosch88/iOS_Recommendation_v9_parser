@@ -31,16 +31,16 @@ Replace path/to/recommendation_v9.sqlite and path/to/storeUser.db with the actua
       Please enter the case number: Case1234
 
 6.	The script will process the data and generate the output file:
-     Starting script with db_path: D:\Cases\timestamp-testing\recommendation_v9.sqlite and storeuser_db_path: D:\Cases\timestamp-testing\storeUser.db
+     Starting script with db_path: D:\Cases\Case1234\Case1234-recommendation_v9.sqlite and storeuser_db_path: D:\Cases\Case1234\storeUser.db
    Fetching app names from storeUser.db...
    Extracted app details: { ... }
    Fetched 100 rows from the database.
    Mapping AdamID 123456789 to app name Example App and bundle ID com.example.app
    ...
    DataFrame created, writing to D:\Cases\Case1234\Case1234-recommendation_v9-StoreUser.db-parsed.csv...
-   Data has been written to D:\Cases\12345-recommendation_v9-StoreUser.db-parsed.csv
+   Data has been written to D:\Cases\Case1234-recommendation_v9-StoreUser.db-parsed.csv
    Script completed.
-   Output file: D:\Cases\timestamp-testing\Case1234-recommendation_v9-StoreUser.db-parsed.csv
+   Output file: D:\Cases\Case1234\Case1234-recommendation_v9-StoreUser.db-parsed.csv
    
 Notes
 •	If the purchase_history_apps table is not present in the storeUser.db database, the script will still parse the recommendation_v9.sqlite database and include a note in the details along with the AdamIDs.
