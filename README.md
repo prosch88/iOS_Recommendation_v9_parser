@@ -9,10 +9,10 @@ Prerequisites
 Instructions for Running Recommendation_v9 Script
 Installation
 1.	Clone the repository:
-   git clone https://github.com/yourusername/Recommendation_v9.git
-   Or download the repository as a zip file and extract it to a local directory.
+   git clone https://github.com/mantal1/iOS_Recommendation_v9_parser
+  	 Or download the repository as a zip file and extract it to a local directory.
    Then cd to Recommendation_v9
-2.	Install the required Python packages:
+3.	Install the required Python packages:
     pip install -r requirements.txt
 
 Running the Script
