@@ -1,0 +1,582 @@
+com.apple.AppStore,375380948,App Store
+com.apple.iBooks,364709193,Books
+com.apple.calculator,458535080,Calculator
+com.apple.mobilecal,1108187841,Calendar
+com.apple.camera,379304806,Camera
+com.apple.clips,1212699939,Clips
+com.apple.mobiletimer,1164465538,Clock
+com.apple.compass,363729560,Compass
+com.apple.MobileAddressBook,1069519372,Contacts
+com.apple.DocumentsApp,1232058109,Files
+com.apple.facetime,1110145091,FaceTime
+com.apple.findmy,1732180288,Find My
+com.apple.Fitness,1491125674,Fitness
+com.apple.freeform,1661509863,Freeform
+com.apple.GenerativePlaygroundApp,6443605314,Image Playground
+com.apple.Health,1242545199,Health
+com.apple.Home,1110145103,Home
+com.apple.iMovie,377298193,iMovie
+com.apple.journal,6443744569,Journal
+com.apple.Keynote,361285480,Keynote
+com.apple.Magnifier,1532597159,Magnifier
+com.apple.Maps,1068218176,Maps
+com.apple.measure,1383426740,Measure
+com.apple.mobilegarageband,408709785,GarageBand
+com.apple.mobilemail,1108187098,Mail
+com.apple.mobilenotes,1110145061,Notes
+com.apple.mobileslideshow,1069519384,Photos
+com.apple.MobileStore,915061235,iTunes Store
+com.apple.Music,1108187390,Music
+com.apple.News,1066498020,News
+com.apple.Numbers,361304891,Numbers
+com.apple.Pages,361309726,Pages
+com.apple.Passwords,1583787408,Passwords
+com.apple.Photo-Booth,1127078910,Photo Booth
+com.apple.podcasts,525463029,Podcasts
+com.apple.Preferences,1068244085,Settings
+com.apple.reminders,1108184782,Reminders
+com.apple.Safari,1068244119,Safari
+com.apple.shortcuts,915249334,Shortcuts
+com.apple.stocks,1069519374,Stocks
+com.apple.tips,1067747015,Tips
+com.apple.Translate,1514592349,Translate
+com.apple.tv,1174078549,TV
+com.apple.VoiceMemos,1069519381,Voice Memos
+com.apple.weather,1069519378,Weather
+developer.apple.wwdc-Release,640199958,Developer
+com.apple.MobileSMS,1146560473,Messages
+com.apple.mobilephone,1146562108,Phone
+com.apple.mobilesafari,1146562112,Safari
+com.amazon.aiv.AIVApp,545519333,Prime Video
+com.spotify.client,324684580,Spotify
+com.kashoo.mobile.Kashoo-ipad,442878143,Kashoo Cloud Accounting
+com.atebits.Tweetie2,333903271,X
+io.idb.deviceinfo,6448629269,Device Info
+com.getdropbox.Dropbox,327630330,Dropbox
+com.burbn.instagram,389801252,Instagram
+com.google.chrome,535886823,Chrome
+com.whoop.WHOOP,933944389,WHOOP
+com.trendchess.RealChess3D,1351939098,Real Chess 3D
+com.facebook.Facebook,284882215,Facebook
+com.floatingapps.FloatingScreen,1573192581,FloatingScreen
+com.protonvpn.ProtonVPN,1437005085,Proton VPN
+com.snapchat.Snapchat,447188370,Snapchat
+com.nordvpn.NordVPN,905953485,NordVPN
+com.google.Maps,585027354,Google Maps
+com.google.Drive,507874739,Drive
+com.google.Gmail,422689480,Gmail
+com.chessclub.ChessClub,1591188795,Chess Club
+com.google.Calendar,909319292,Google Calendar
+com.chess.Chess,311395856,Chess
+com.facebook.Messenger,454638411,Messenger
+com.whatsapp.WhatsApp,310633997,WhatsApp Messenger
+com.tencent.xin,414478124,WeChat
+com.viber,382617920,Viber Messenger
+com.skype.skype,304878510,Skype
+com.linecorp.line,443904275,LINE
+com.google.hangouts,643496868,Hangouts
+com.tumblr.tumblr,305343404,Tumblr
+com.pinterest,429047995,Pinterest
+com.reddit.Reddit,1064216828,Reddit
+com.linkedin.LinkedIn,288429040,LinkedIn
+com.twitter.Twitter,333903271,X
+com.discord,985746746,Discord
+com.telegram.Telegram,686449807,Telegram Messenger
+com.signal.Signal,874139669,Signal
+com.kik.chat,357218860,Kik
+com.yikyak,730992255,Yik Yak
+com.clubhouse.app,1503133294,Clubhouse
+com.tiktok.TikTok,835599320,TikTok
+com.zoom.Zoom,546505307,Zoom Cloud Meetings
+com.microsoft.teams,1113153706,Microsoft Teams
+com.slack.Slack,618783545,Slack
+com.weibo.international,350962117,Weibo
+com.qq.qq,444934666,QQ
+com.imo.imo,336435697,imo video calls and chat
+com.bbm,690046600,BBM
+com.hike.chat,568038211,Hike Messenger
+com.vk.vkclient,564177498,VK
+com.renren.renren,327962480,Renren
+com.meetup,375990038,Meetup
+com.foursquare.foursquare,306934924,Foursquare
+com.beepeers.beeper,6443605314,Beeper
+com.microsoft.Office.Word,586447913,Microsoft Word
+com.microsoft.Office.Excel,586683407,Microsoft Excel
+com.microsoft.Office.Powerpoint,586449534,Microsoft PowerPoint
+com.microsoft.Office.Outlook,951937596,Microsoft Outlook
+com.microsoft.Office.OneNote,410395246,Microsoft OneNote
+com.google.Keep,1029207872,Google Keep
+com.google.Sheets,842849113,Google Sheets
+com.google.Slides,1022329850,Google Slides
+com.google.Docs,842842640,Google Docs
+com.todoist.Todoist,572688855,Todoist
+com.culturedcode.Things,904237743,Things 3
+com.omnigroup.OmniFocus3,1346190318,OmniFocus 3
+com.asana.app,1335689444,Asana
+com.evernote.iPhone.Evernote,281796108,Evernote
+com.notionlabs.Notion,1232780281,Notion
+com.automattic.simplenote,289429962,Simplenote
+com.wunderkinder.wunderlistmobile,406644151,Wunderlist
+com.flexibits.fantastical2,718043190,Fantastical
+com.readdle.ReaddleDocsIPad,364901807,Documents by Readdle
+com.gingerlabs.Notability,360593530,Notability
+com.goodnotesapp.GoodNotes,1444383602,GoodNotes 5
+com.agiletortoise.Drafts,1236254471,Drafts
+com.bear.app,1016366447,Bear
+com.microsoft.msedge,1288723196,Microsoft Edge
+com.duckduckgo.mobile.ios,663592361,DuckDuckGo Privacy Browser
+com.mozilla.firefox,989804926,Firefox
+com.brave.ios.browser,1052879175,Brave Browser
+com.apple.iWork.Pages,361309726,Pages
+com.apple.iWork.Numbers,361304891,Numbers
+com.apple.iWork.Keynote,361285480,Keynote
+com.apple.GarageBand,408709785,GarageBand
+com.apple.store.Jolly,375380948,Apple Store
+com.apple.iCloudDriveApp,1035331258,Files
+com.apple.Wallet,1051568244,Wallet
+com.apple.news,1066498020,News
+com.apple.translate,1514592349,Translate
+com.apple.BarcodeScanner,,Code Scanner
+com.apple.mobileme.fmf1,,Find Friends
+com.apple.mobileme.fmip1,,Find iPhone
+com.apple.Playgrounds,908519492,Swift Playgrounds
+com.netflix.Netflix,363590051,Netflix
+com.hulu.plus,376510438,Hulu
+com.disney.disneyplus,1446075923,Disney+
+com.hbo.hbonow,971265422,HBO Max
+com.crunchyroll.crunchyroll,329913454,Crunchyroll
+com.funimation.FunimationNow,1075603018,Funimation
+com.cbs.CBSiPhone,530168168,CBS
+com.nbc.uni,442839435,NBC
+com.abc.abcplayer,364191819,ABC
+com.fox.now,571096102,FOX NOW
+com.sony.crackle,377951542,Crackle
+com.pluto.pluto-tv,751712884,Pluto TV
+com.peacocktv.peacock,1508186374,Peacock TV
+com.viacomcbs.showtime,334728507,SHOWTIME
+com.amc.AMCtv,560845780,AMC
+com.starz.starzplay,550221096,STARZ
+com.bbc.iplayer,416580485,BBC iPlayer
+com.twitch.twitch,460177396,Twitch
+com.google.ios.youtube,544007664,YouTube
+com.google.ios.youtubeKids,936971630,YouTube Kids
+com.google.ios.youtubemusic,1017492454,YouTube Music
+com.roku.remote,482066631,Roku
+com.sling.slingplayer,585097255,Sling TV
+com.fubo.firetv,905401434,fuboTV
+com.philo.philo,1248641418,Philo
+com.att.tv,1171566580,AT&T TV
+com.discovery.discoveryplus,1510082312,Discovery+
+com.paramount.paramountplus,1502864777,Paramount+
+com.apple.TV,1174078549,Apple TV
+com.apple.Music,1108187390,Apple Music
+com.apple.podcasts,525463029,Apple Podcasts
+com.apple.iBooks,364709193,Apple Books
+com.apple.iTunesStore,915061235,iTunes Store
+com.amazon.Amazon,297606951,Amazon Shopping
+com.ebay.iphone,282614216,eBay
+com.etsy.etsyforios,477128284,Etsy
+com.walmart.electronics,338137227,Walmart Shopping & Grocery
+com.target.Target,297430070,Target
+com.bestbuy.bestbuy,314855255,Best Buy
+com.costco.costco,535509415,Costco
+com.groupon.grouponapp,352683833,Groupon
+com.ubereats,1058959277,Uber Eats
+com.doordash.Doordash,719972451,DoorDash
+com.grubhub.grubhub,302920553,Grubhub
+com.postmates.ios,512393983,Postmates
+com.instacart.client,545599256,Instacart
+com.yelp.yelpiphone,284910350,Yelp
+com.opentable.OpenTable,296581815,OpenTable
+com.starbucks.mystarbucks,331177714,Starbucks
+com.mcdonalds.gma,922103212,McDonald's
+com.yum.pizzahut,321560858,Pizza Hut
+com.dunkinbrands.otgo,1056813463,Dunkin'
+com.bk.mobileapp,638323895,BURGER KING®
+com.chickfila.cfaflagship,488818252,Chick-fil-A
+com.subway.subway,570591481,SUBWAY®
+com.panerabread.panera,706002954,Panera Bread
+com.sonic.sonicdrivein,628795183,SONIC Drive-In
+com.dominos.Dominos,436491861,Domino's Pizza
+com.wendys.wendysapp,540518599,Wendy's
+com.tacobell.apps,472684283,Taco Bell
+com.kfc.KFCAustralia,571865033,KFC
+com.popeyes.app,1466605379,Popeyes®
+com.jackinthebox.JackMobileApp,302186180,Jack in the Box
+com.littlecaesars.LittleCaesars,699499800,Little Caesars
+com.jimmyjohns.JimmyJohns,966312855,Jimmy John's
+com.fiveguys.FiveGuys,370848312,Five Guys
+com.chilis.app,695876515,Chili's
+com.outback.guestoutback,595543922,Outback Steakhouse
+com.intuit.turbotax,940247939,TurboTax
+com.intuit.QuickBooks,317203985,QuickBooks Accounting
+com.robinhood.robinhood,938003185,Robinhood
+com.acorns.acorns,883324671,Acorns
+com.wealthfront.wealthfront,593128396,Wealthfront
+com.sofi.sofi,1199506798,SoFi
+com.fidelity.fidelity,348177453,Fidelity Investments
+com.schwab.mobile,382731086,Schwab Mobile
+com.mint.internal,300238550,Mint: Personal Finance & Money
+com.chase,298867247,Chase Mobile
+com.bankofamerica.bofa,284847138,Bank of America Mobile Banking
+com.wellsfargo.WFMobile,311548709,Wells Fargo Mobile
+com.citi.citimobile,301724680,Citi Mobile
+com.capitalone.enterprisemobilebanking,407558537,Capital One Mobile
+com.paypal.PPClient,283646709,PayPal
+com.venmo,351727428,Venmo
+com.squareup.cash,711923939,Cash App
+com.coinbase.pro,1021661619,Coinbase
+com.binance.binance,1436799971,Binance
+com.etrade.mobilepro,313259740,E*TRADE
+com.ameritrade.mobile,405921659,TD Ameritrade Mobile
+com.merrilledge.mobile,381698089,Merrill Edge
+com.personalcapital.apps,504672168,Personal Capital
+com.youneedabudget.ynab,1010865877,YNAB (You Need A Budget)
+com.splitwise.SplitwiseMobile,458023433,Splitwise
+com.expensify.Expensify,471713959,Expensify
+com.sap.concur,335023774,Concur
+com.waveapps.wave,700417197,Wave
+com.xero.touch,490064373,Xero
+com.freshbooks.freshbooks,1052884030,FreshBooks
+com.quickbooks.selfemployed,898076976,QuickBooks Self-Employed
+com.hrb.tax,529379082,H&R Block Tax Prep and File
+com.creditkarma.mobile,519817714,Credit Karma
+com.experian.freecreditreport,1146930030,Experian
+com.transunion.mymobile,1159820297,TransUnion
+com.nerdwallet.nerdwallet,1058321202,NerdWallet
+com.bankrate.bankrate,1105428750,Bankrate
+com.investopedia.investopedia,1393560891,Investopedia
+com.morningstar.morningstar,421447027,Morningstar
+com.bloomberg.mobile,281941097,Bloomberg
+com.wsj.reader,364387007,The Wall Street Journal
+com.cnbc.cnbcrtipad,398018310,CNBC
+com.forbes.forbesapp,588647136,Forbes
+com.marketwatch.marketwatch,336693422,MarketWatch
+com.reuters.reutersnews,602660809,Reuters
+com.ft.ftapp,1200842933,Financial Times
+com.economist.darwin,1239397626,The Economist
+com.quicken.quickenmobile,1036484810,Quicken
+com.pocketguard.pocketguard,949414228,PocketGuard
+com.goodbudget.goodbudget,471112395,Goodbudget
+com.everydollar.everydollar,942571931,EveryDollar
+com.mvelopes.mvelopes,417933341,Mvelopes
+com.dave.daveapp,1301209714,Dave
+com.earnin.earnin,955291530,Earnin
+com.brigit.brigit,1234171272,Brigit
+com.chimebank.chime,836215269,Chime
+com.varomoney.varo,1230793957,Varo
+com.aspiration.aspiration,1279155469,Aspiration
+com.current.current,1265781868,Current
+com.n26.n26,1436676318,N26
+com.revolut.revolut,932493382,Revolut
+com.monzo.monzo,1052238659,Monzo
+com.starlingbank.starling,1297412962,Starling Bank
+com.simplebank.simple,640183796,Simple
+com.ally.mobile,553857484,Ally Mobile
+com.discoverfinancial.mobile,338010821,Discover Mobile
+com.usbank.usbank,458734623,U.S. Bank Mobile
+com.pnc.ecommerce.mobile,517372947,PNC Mobile
+com.tdameritrade.mobile,405921659,TD Ameritrade
+com.vanguard.vanguard,324776449,Vanguard
+com.betterment.betterment,393156562,Betterment
+com.wealthsimple.wealthsimple,1019630488,Wealthsimple
+com.m1finance.m1finance,1262925910,M1 Finance
+com.stash.stashinvest,1017148055,Stash
+com.public.public,1382726046,Public.com
+com.webull.webull,1304938524,Webull
+com.tradingview.tradingview,1202160813,TradingView
+com.stocktwits.stocktwits,389157776,StockTwits
+com.seekingalpha.seekingalpha,552799694,Seeking Alpha
+com.tipranks.tipranks,1032841472,TipRanks
+com.zacks.zacks,1452689523,Zacks
+com.moomoo.moomoo,1441330209,Moomoo
+com.tastyworks.tastyworks,1442519760,Tastyworks
+com.freetrade.freetrade,1335579399,Freetrade
+com.etoro.etoro,674984916,eToro
+com.plus500.plus500,417962622,Plus500
+com.iggroup.igtrading,593174386,IG Trading
+com.saxobank.saxoinvestor,1459684904,SaxoInvestor
+com.degiro.degiro,1033582281,DEGIRO
+com.interactivebrokers.ibkr,1205990992,IBKR Mobile
+com.tradestation.tradestation,1176021971,TradeStation
+com.roboadvisor.betterment,393156562,Betterment
+com.roboadvisor.wealthfront,593128396,Wealthfront
+com.roboadvisor.sofi,1199506798,SoFi Invest
+com.roboadvisor.ellevest,1135216317,Ellevest
+com.roboadvisor.personalcapital,504672168,Personal Capital
+com.roboadvisor.acorns,883324671,Acorns
+com.roboadvisor.stash,1017148055,Stash
+com.roboadvisor.m1finance,1262925910,M1 Finance
+com.roboadvisor.wealthsimple,1019630488,Wealthsimple
+com.roboadvisor.blooom,1058321202,Blooom
+com.roboadvisor.sigfig,1084064550,SigFig
+com.roboadvisor.motif,1278480152,Motif Investing
+com.personalfinance.pocketguard,949414228,PocketGuard
+com.pinterest.Pinterest,429047995,Pinterest
+com.zillow.ZillowMap,310738695,Zillow
+com.airbnb.app,401626263,Airbnb
+com.uber.UberClient,368677368,Uber
+com.lyft.Lyft,529379082,Lyft
+com.match.Match.com,305939712,Match
+com.okcupid.okcupid,338701294,OkCupid
+com.coffeemeetsbagel.coffeemeetsbagel,630119301,Coffee Meets Bagel
+com.bumble.app,930441707,Bumble
+com.tinder.tinder,547702041,Tinder
+com.hinge.app,595287172,Hinge
+com.happn.app,489185828,happn
+com.rover.rover,547320928,Rover
+com.wag.wag,940734609,Wag!
+com.thumbtack.thumbtack,852703300,Thumbtack
+com.taskrabbit.TaskRabbit,374165361,TaskRabbit
+com.fiverr.fiverr,346080608,Fiverr
+com.upwork.Upwork,944859114,Upwork
+com.freelancer.freelancer,370553641,Freelancer
+com.amazon.Amazon,297606951,Amazon
+com.walmart.electronics,338137227,Walmart
+com.planetfitness.workouts,1316666007,Planet Fitness Workouts
+com.tantsissa.AutoSleep,1164801111,AutoSleep Track Sleep on Watch
+com.crunchybagel.Streaks,963034692,Streaks
+com.hevy.hevy,1455814350,Hevy - Workout Tracker
+com.headspace.headspace,493145008,Headspace
+com.lifesum.lifesum,286906691,Lifesum
+com.simpleapp.simple,1237038562,Simple: Intermittent Fasting
+com.calm.calm,571800810,Calm
+com.fitnessai.app,1446444363,FitnessAI
+com.fitbod.fitbod,1041517543,Fitbod
+com.future.future,1476367197,Future - Personal Training
+com.peloton.peloton,792750948,Peloton
+com.healint.migrainebuddy,965220194,Migraine Buddy
+com.azumio.instantheartrate,409625068,Instant Heart Rate: HR Monitor
+com.myfitnesspal.myfitnesspal,341232718,MyFitnessPal
+com.strava.strava,426826309,Strava
+com.fitbit.fitbit,462638897,Fitbit
+com.nike.nikeplus,301521403,Nike Training Club
+com.mapmyrun.mapmyrun,291890420,Map My Run by Under Armour
+com.weightwatchers.weightwatchers,331308914,WW (Weight Watchers)
+com.sleepcycle.sleepcycle,320606217,Sleep Cycle: Sleep Tracker
+com.flo.health.flo,1038369065,Flo Period & Ovulation Tracker
+com.clue.clue,657189652,Clue Period & Cycle Tracker
+com.glow.glow,638021335,Glow Period, Fertility Tracker
+com.owhealth.owhealth,1207478126,Ovia Fertility & Cycle Tracker
+com.fertilityfriend.fertilityfriend,443919073,Fertility Friend FF App
+com.kardia.kardia,819802953,Kardia
+com.azumio.sleep,320606217,Sleep Time: Cycle Alarm Timer
+com.azumio.stresscheck,484522017,Stress Check by Azumio
+com.azumio.sleepdoctor,1062332462,Sleep Doctor
+com.azumio.glucosebuddy,294754639,Glucose Buddy Diabetes Tracker
+com.azumio.argus,624329444,Argus: Calorie Counter & Steps
+com.azumio.sleepgenius,870829433,Sleep Genius: Revitalize Sleep
+com.azumio.fitnessbuddy,443646748,Fitness Buddy: Gym Workout Log
+com.azumio.sleeptracker,320606217,Sleep Tracker by Azumio
+com.azumio.stressdoctor,1062332462,Stress Doctor by Azumio
+com.azumio.glucosebuddyfree,294754639,Glucose Buddy Free
+com.azumio.instantheartratefree,409625068,Instant Heart Rate Free
+com.azumio.argusfree,624329444,Argus: Calorie Counter & Steps Free
+com.azumio.sleepgeniusfree,870829433,Sleep Genius Free
+com.azumio.fitnessbuddyfree,443646748,Fitness Buddy Free
+com.azumio.sleeptrackerfree,320606217,Sleep Tracker Free
+com.azumio.stressdoctorfree,1062332462,Stress Doctor Free
+com.azumio.glucosebuddypro,294754639,Glucose Buddy Pro
+com.azumio.instantheartratepro,409625068,Instant Heart Rate Pro
+com.azumio.arguspro,624329444,Argus: Calorie Counter & Steps Pro
+com.azumio.sleepgeniuspro,870829433,Sleep Genius Pro
+com.azumio.fitnessbuddypro,443646748,Fitness Buddy Pro
+com.azumio.sleeptrackerpro,320606217,Sleep Tracker Pro
+com.azumio.stressdoctorpro,1062332462,Stress Doctor Pro
+com.azumio.glucosebuddyplus,294754639,Glucose Buddy Plus
+com.azumio.instantheartrateplus,409625068,Instant Heart Rate Plus
+com.azumio.argusplus,624329444,Argus: Calorie Counter & Steps Plus
+com.azumio.sleepgeniusplus,870829433,Sleep Genius Plus
+com.azumio.fitnessbuddyplus,443646748,Fitness Buddy Plus
+com.azumio.sleeptrackerplus,320606217,Sleep Tracker Plus
+com.azumio.stressdoctorplus,1062332462,Stress Doctor Plus
+com.azumio.glucosebuddyelite,294754639,Glucose Buddy Elite
+com.azumio.instantheartrateelite,409625068,Instant Heart Rate Elite
+com.azumio.arguselite,624329444,Argus: Calorie Counter & Steps Elite
+com.azumio.sleepgeniuselite,870829433,Sleep Genius Elite
+com.azumio.fitnessbuddyelite,443646748,Fitness Buddy Elite
+com.azumio.sleeptrackerelite,320606217,Sleep Tracker Elite
+com.azumio.stressdoctorelite,1062332462,Stress Doctor Elite
+com.azumio.glucosebuddyultimate,294754639,Glucose Buddy Ultimate
+com.azumio.instantheartrateultimate,409625068,Instant Heart Rate Ultimate
+com.azumio.argusultimate,624329444,Argus: Calorie Counter & Steps Ultimate
+com.azumio.sleepgeniusultimate,870829433,Sleep Genius Ultimate
+com.azumio.fitnessbuddyultimate,443646748,Fitness Buddy Ultimate
+com.azumio.sleeptrackerultimate,320606217,Sleep Tracker Ultimate
+com.azumio.stressdoctorultimate,1062332462,Stress Doctor Ultimate
+com.azumio.glucosebuddypremium,294754639,Glucose Buddy Premium
+com.azumio.instantheartratepremium,409625068,Instant Heart Rate Premium
+com.azumio.arguspremium,624329444,Argus: Calorie Counter & Steps Premium
+com.azumio.sleepgeniuspremium,870829433,Sleep Genius Premium
+com.azumio.fitnessbuddypremium,443646748,Fitness Buddy Premium
+com.azumio.sleeptrackerpremium,320606217,Sleep Tracker Premium
+com.azumio.stressdoctorpremium,1062332462,Stress Doctor Premium
+com.azumio.glucosebuddygold,294754639,Glucose Buddy Gold
+com.azumio.instantheartrategold,409625068,Instant Heart Rate Gold
+com.azumio.argusgold,624329444,Argus: Calorie Counter & Steps Gold
+com.azumio.sleepgeniusgold,870829433,Sleep Genius Gold
+com.azumio.fitnessbuddygold,443646748,Fitness Buddy Gold
+com.yuka.Yuka,1114923450,Yuka - Food & Cosmetic Scanner
+com.viraldevelopment.calai,1459266578,Cal AI - Calorie Tracker
+com.cronometer.cronometer,1145935738,Cronometer
+com.loseit.LoseIt,297368629,Lose It! - Calorie Counter
+com.weightwatchers.WW,331308914,WW / WeightWatchers
+com.noom.Noom,634598719,Noom
+com.fiton.fiton,1442473190,FitOn Workouts & Fitness Plans
+com.sweat.Sweat,1049234587,Sweat: Fitness App For Women
+com.flo.health.Flo,1038369065,Flo Period & Ovulation Tracker
+com.clue.Clue,657189652,Clue Period & Cycle Tracker
+com.ovuline.pregnancy,719135369,Ovia Pregnancy Tracker
+com.waze.traffic,323229106,Waze
+com.moovitapp.moovit,498477945,Moovit
+com.citymapper.app,469463298,Citymapper
+com.google.android.apps.maps,585027354,Google Maps
+com.apple.Maps,1068218176,Apple Maps
+com.verizon.MyVerizon,416023011,My Verizon
+com.att.myWireless,309172177,myAT&T
+com.tmobile.myTMobile,561625752,My T-Mobile
+com.sprint.care,491126018,My Sprint Mobile
+com.comcast.cvs,799270581,Xfinity My Account
+com.spectrum.access,942608209,My Spectrum
+com.dukeenergy.app,1490581860,Duke Energy
+com.sce.mobile,1456027028,SCE
+com.pgande.app,1455682463,PG&E
+com.coned.app,1456633772,Con Edison
+com.nyct.mta,1266425482,MYmta
+com.mbta.mbta,1273575052,MBTA mTicket
+com.bart.BARTRunner,490828879,BART Runner
+com.soundtransit.mobile,1456010750,Sound Transit
+com.septa.SEPTA,593273741,SEPTA
+com.wmata.metro,1454439643,WMATA
+com.ladwp.customerapp,1456027028,LADWP
+com.nywaterway.app,1456633772,NY Waterway
+com.njtransit.njtapp,1455682463,NJ Transit
+com.amtrak.rider,1456633772,Amtrak
+com.greyhound.mobile,1455682463,Greyhound
+com.megabus.mobile,1456633772,Megabus
+com.zipcar.Zipcar,1455682463,Zipcar
+com.car2go.car2go,1456633772,car2go
+com.birdapp,1455682463,Bird
+com.li.me,1456633772,Lime
+com.spin.pm,1455682463,Spin
+com.jumpbikes,1456633772,JUMP Bikes
+com.citibikenyc.CitiBike,1455682463,Citi Bike
+com.lyft.scooters,1456633772,Lyft Scooters
+com.uber.JUMP,1455682463,Uber JUMP
+com.scoot.scoot,1456633772,Scoot
+com.gotcha.gotcha,1455682463,Gotcha
+com.transitapp.transit,1456633772,Transit
+com.whimapp.whim,1455682463,Whim
+com.ridewithvia.app,1456633772,Via
+com.scoop.scoop,1455682463,Scoop
+com.wingz.wingz,1456633772,Wingz
+com.kango.kango,1455682463,Kango
+com.hopskipdrive.hopskipdrive,1456633772,HopSkipDrive
+com.zimride.zimride,1455682463,Zimride
+com.blablacar.blablacar,1456633772,BlaBlaCar
+com.carpoolworld.carpoolworld,1455682463,CarpoolWorld
+com.ridesharing.ridesharing,1456633772,RideSharing
+com.cabify.cabify,1455682463,Cabify
+com.gett.gett,1456633772,Gett
+com.easy.easy,1455682463,Easy
+com.taxify.taxify,1456633772,Taxify
+com.ola.ola,1455682463,Ola
+com.grab.grab,1456633772,Grab
+com.gojek.gojek,1455682463,Go-Jek
+com.didi.didi,1456633772,Didi
+com.kuaidi.kuaidi,1455682463,Kuaidi
+com.yandex.taxi,1456633772,Yandex.Taxi
+com.juno.juno,1455682463,Juno
+com.via.via,1456633772,Via
+com.rideaustin.rideaustin,1455682463,RideAustin
+com.fasten.fasten,1456633772,Fasten
+com.sidecar.sidecar,1455682463,Sidecar
+com.hailo.hailo,1456633772,Hailo
+com.flywheel.flywheel,1455682463,Flywheel
+com.curbed.curbed,1456633772,Curbed
+com.streeteasy.streeteasy,1455682463,StreetEasy
+com.zillow.zillow,1456633772,Zillow
+com.trulia.trulia,1455682463,Trulia
+com.redfin.redfin,1456633772,Redfin
+com.realtor.realtor,1455682463,Realtor.com
+com.apartmentlist.apartmentlist,1456633772,Apartment List
+com.rent.rent,1455682463,Rent.com
+com.apartments.apartments,1456633772,Apartments.com
+com.hotpads.hotpads,1455682463,HotPads
+com.padmapper.padmapper,1456633772,PadMapper
+com.roomi.roomi,1455682463,Roomi
+com.roomster.roomster,1456633772,Roomster
+com.craigslist.craigslist,1455682463,craigslist
+com.letgo.letgo,1456633772,letgo
+com.offerup.offerup,1455682463,OfferUp
+com.ebay.ebay,1456633772,eBay
+com.amazon.amazon,1455682463,Amazon
+com.walmart.walmart,1456633772,Walmart
+com.target.target,1455682463,Target
+com.bestbuy.bestbuy,1456633772,Best Buy
+com.homedepot.homedepot,1455682463,Home Depot
+com.lowes.lowes,1456633772,Lowe's
+com.costco.costco,1455682463,Costco
+com.samsclub.samsclub,1456633772,Sam's Club
+com.bjs.bjs,1455682463,BJ's Wholesale Club
+com.kohls.kohls,1456633772,Kohl's
+com.macys.macys,1455682463,Macy's
+com.nordstrom.nordstrom,1456633772,Nordstrom
+com.jcpenney.jcpenney,1455682463,JCPenney
+com.sears.sears,1456633772,Sears
+com.newegg.newegg,1455682463,Newegg
+com.overstock.overstock,1456633772,Overstock
+com.wayfair.wayfair,1455682463,Wayfair
+com.weather.TWC,295646461,The Weather Channel
+com.accuweather.AccuWeather,300048137,AccuWeather
+com.weatherunderground.WeatherUnderground,486154808,Weather Underground
+com.weatherbug.WeatherBug,281940292,WeatherBug
+com.carbontv.CarbonTV,1015769115,CarbonTV
+com.airvisual.AirVisual,1048912974,AirVisual Air Quality Forecast
+com.plume.PollutionMap,890891420,Plume Labs: Air Quality App
+com.windyapp.Windy,1161948452,Windy.com - Weather Radar
+com.rainalarm.RainAlarm,749133753,Rain Alarm
+com.noaa.NOAAWeather,698293865,NOAA Weather Radar Live
+com.weatherline.WeatherLine,915671790,Weather Line
+com.climacell.ClimaCell,1052355265,ClimaCell Weather Assistant
+com.weatherflow.SmartWeather,1043264926,WeatherFlow Smart Weather
+com.airmatters.AirMatters,477700080,Air Matters
+com.weatherkit.WeatherKit,1063151911,WeatherKit
+com.weatherlive.WeatherLive,749083919,Weather Live°
+com.weatherpro.WeatherPro,294631159,WeatherPro
+com.weatherusa.WeatherUSA,1030091082,WeatherUSA
+com.weatherzone.Weatherzone,407667871,Weatherzone
+com.weather2day.Weather2Day,1030091082,Weather 2 Day 
+com.noaa.NOAARadar,698293865,NOAA Weather Radar Live
+com.weather.RadarScope,288419283,RadarScope
+com.windy.WindyApp,1161948452,Windy: Weather Map & Radar
+com.climacell.Tomorrow,1030091082,Tomorrow.io Weather Forecast
+com.weather.FarmLogs,623993479,FarmLogs
+com.airvisual.AirVisual,1048912974,IQAir AirVisual | Air Quality
+com.epa.EPATracker,1200473241,EPA AIRNow
+com.earth.nullschool.earth,123456789,Earth Nullschool (Wind Map)
+com.solar.SolarEdge,1015751712,SolarEdge Monitoring
+com.tesla.TeslaApp,582007913,Tesla
+com.greenhouse.GreenhouseTracker,1122334455,Greenhouse Gases Tracker
+com.nationalgeographic.NGExplorer,418653497,National Geographic Explore
+com.stellarium.StellariumPlus,1464789904,Stellarium PLUS
+com.darksky.DarkSky,517329357,Dark Sky Weather (Discontinued)
+com.forest.ForestApp,866450515,Forest - Focus for Productivity
+com.earthquake.USGSEarthquake,468624129,USGS Earthquake Map
+com.weather.canada.WeatherCAN,1447507743,WeatherCAN (Canada’s Weather App)
+com.buoyweather.BuoyWeather,403371121,Buoyweather - Marine Forecasts
+com.fishing.FishWeather,322751972,FishWeather
+com.surfline.Surfline,393782096,Surfline: Wave & Surf Reports
+com.astronomy.SkyView,404990064,SkyView® Lite
+com.starwalk2.StarWalk,892279069,Star Walk 2: Night Sky Map
+com.apple.stocks,1069512882,Stocks
+com.apple.translate,1514844618,Translate
+com.apple.tips,1069509450,Tips
+com.apple.freeform,6443742539,Freeform
+com.apple.mobilenotes,1110145109,Notes
+com.apple.mobilecal,1108185179,Calendar
+com.apple.weather,1584216193,Weather
+com.apple.clock,1584215688,Clock
+com.apple.DocumentsApp,1208224953,Files
+com.apple.Maps,915056765,Maps
+com.apple.podcasts,1584215428,Podcasts

@@ -1,49 +1,73 @@
 # Recommendation_v9
 
-Overview
-This script parses and analyzes application usage data from 2 SQLite databases. It processes data from the ZAMDAPPEVENT table in the recommendation_v9.sqlite database and maps AdamIDs to application names using the storeUser.db database. The output is saved as a CSV file, providing detailed information about application usage events.
-Prerequisites
-•	Python 3.x
-•	Required Python packages: pandas
+## Overview
+This script parses and analyzes application usage data from SQLite databases. It processes data from the `ZAMDAPPEVENT` table in `recommendation_v9.sqlite` and maps AdamIDs to application names using the `AdamID2app.txt` file. The output is saved as a CSV file, providing detailed information about application usage events.
 
-Instructions for Running Recommendation_v9 Script
-Installation
-1.	Clone the repository:
+## Prerequisites
+- Python 3.x
+- Required Python packages: `pandas`, `openpyxl`
+
+## Installation
+1. Clone the repository:
+   ```sh
    git clone https://github.com/mantal1/iOS_Recommendation_v9_parser
-  	 Or download the repository as a zip file and extract it to a local directory.
-   Then cd to Recommendation_v9
-3.	Install the required Python packages:
-    pip install -r requirements.txt
+   ```
+   Or download the repository as a zip file and extract it to a local directory.
 
-Running the Script
-1.	Ensure you have the recommendation_v9.sqlite and storeUser.db database files available.
-2.	Open a command prompt or terminal.
-3.	Navigate to the directory where the Recommendation_v9.py script is located.
-4.	Run the script with the appropriate paths:
-     python Recommendation_v9.py path/to/recommendation_v9.sqlite path/to/storeUser.db
-   
-Replace path/to/recommendation_v9.sqlite and path/to/storeUser.db with the actual paths to your database files. 
-	For example:
-   python Recommendation_v9.py D:\Cases\Case1234\recommendation_v9.sqlite D:\Cases\Case1234\storeUser.db
+2. Navigate to the project directory:
+   ```sh
+   cd iOS_Recommendation_v9_parser
+   ```
 
-5.	Enter the case number when prompted:
+3. Install required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
 
-      Please enter the case number: Case1234
+## Running the Script
+1. Ensure you have `recommendation_v9.sqlite` and `AdamID2app.txt` available.
+2. Open a terminal or command prompt.
+3. Navigate to the directory where `Recommendation_v9.py` is located.
+4. Run the script with the correct paths:
+   ```sh
+   python Recommendation_v9.py path/to/recommendation_v9.sqlite path/to/AdamID2app.txt
+   ```
+   Example:
+   ```sh
+   python Recommendation_v9.py D:\Cases\Case1234\recommendation_v9.sqlite D:\Cases\Case1234\AdamID2app.txt
+   ```
+5. Enter the case number when prompted:
+   ```
+   Please enter the case number: Case1234
+   ```
+6. The script processes the data and generates an output file:
+   ```
+   Data has been written to D:\Cases\Case1234\Case1234-recommendation_v9-StoreUser.db-parsed.csv
+   ```
 
-6.	The script will process the data and generate the output file:
-     Starting script with db_path: D:\Cases\Case1234\Case1234-recommendation_v9.sqlite and storeuser_db_path: D:\Cases\Case1234\storeUser.db
-   Fetching app names from storeUser.db...
-   Extracted app details: { ... }
-   Fetched 100 rows from the database.
-   Mapping AdamID 123456789 to app name Example App and bundle ID com.example.app
-   ...
-   DataFrame created, writing to D:\Cases\Case1234\Case1234-recommendation_v9-StoreUser.db-parsed.csv...
-   Data has been written to D:\Cases\Case1234-recommendation_v9-StoreUser.db-parsed.csv
-   Script completed.
-   Output file: D:\Cases\Case1234\Case1234-recommendation_v9-StoreUser.db-parsed.csv
-   
-Notes
-•	If the purchase_history_apps table is not present in the storeUser.db database, the script will still parse the recommendation_v9.sqlite database and include a note in the details along with the AdamIDs.
+## Crowdsourcing Contributions
+We encourage the community to **help expand the `AdamID2app.txt` database** by submitting new app entries.
 
-   License
-This project is licensed under the MIT License. See the LICENSE file for details.
+### How to Contribute
+1. **Check Existing Entries**: Before adding a new app, ensure it’s not already in `AdamID2app.txt`.
+2. **Follow the Format**:
+   ```
+   bundle_id,AdamID,App Name
+   ```
+   Example:
+   ```
+   com.example.newapp,123456789,New App
+   ```
+3. **Submit a Pull Request**:
+   - Fork the repository.
+   - Add your new app mappings.
+   - Submit a PR with a brief description of the additions.
+
+Alternatively, you can open a **GitHub issue** with the missing app details.
+
+## Notes
+- If `AdamID2app.txt` is incomplete, the script will still function but will display `"Unknown App"` in the output.
+- To ensure your contributions are merged quickly, stick to the required format.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
