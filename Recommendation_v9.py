@@ -102,7 +102,7 @@ def parse_sqlite_db(db_path, adam_id_file_path, case_number):
         # Save to CSV
         df = pd.DataFrame(data)
         output_dir = os.path.dirname(db_path)
-        output_filename = os.path.join(output_dir, f"{case_number}-recommendation_v9-StoreUser.db-parsed.csv")
+        output_filename = os.path.join(output_dir, f"{case_number}-recommendation_v9.sqlite-parsed.csv")
         df.to_csv(output_filename, index=False)
         print(f"Data has been written to {output_filename}")
     
