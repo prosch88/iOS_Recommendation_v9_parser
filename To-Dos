@@ -1,2 +1,0 @@
-To-do
-Since using Store db to pair AdamIDs to package names, native apps are no paired.  Need to get a list of native adamIDs and package names to hard-code into the main py
