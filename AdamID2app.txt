@@ -81,7 +81,7 @@ com.reddit.Reddit,1064216828,Reddit
 com.linkedin.LinkedIn,288429040,LinkedIn
 com.twitter.Twitter,333903271,X
 com.discord,985746746,Discord
-com.telegram.Telegram,686449807,Telegram Messenger
+ph.telegra.Telegraph,686449807,Telegram Messenger
 com.signal.Signal,874139669,Signal
 com.kik.chat,357218860,Kik
 com.yikyak,730992255,Yik Yak
@@ -580,3 +580,10 @@ com.apple.clock,1584215688,Clock
 com.apple.DocumentsApp,1208224953,Files
 com.apple.Maps,915056765,Maps
 com.apple.podcasts,1584215428,Podcasts
+com.kingsoft.office.g.wpsoffice,1491101673,WPS Office
+com.rungap.RunGap,534460198,RunGap
+com.thetrainline.iphone,334235181,Trainline
+chat.rocket.ios,1148741252,Rocket.Chat
+com.quip.Quip,647922896,Quip
+com.foxitcorporation.reader,507040546,Foxit PDF Editor
+com.ebaykleinanzeigen.ebc,382596778,Kleinanzeigen
